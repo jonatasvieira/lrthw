@@ -1,4 +1,4 @@
-# Exercises exercises of learn ruby the hard way 
-
+### Exercises of learn ruby the hard way 
+[LRTHW book](https://learnrubythehardway.org/book/)
   
  

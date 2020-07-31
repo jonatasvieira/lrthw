@@ -18,7 +18,7 @@ puts "I said: #{x}."
 
 puts "I also said: '#{y}'."
 
-hilarious = false
+hilarious = true
 
 # three
 joke_evaluation = "Isn't that joke so funny?! #{hilarious}"

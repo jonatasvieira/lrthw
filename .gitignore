@@ -1,3 +1,4 @@
-./vendor/*
+vendor
 
+# Ignore all text files
 *.txt
